@@ -1,0 +1,153 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@400;700;900&family=Poppins&display=swap');
+.wrapper {
+    min-height: 100%;
+    overflow: hidden;
+}
+.title {
+    color: #1e212c;
+    font-family: "Lato";
+    font-size: 46px;
+    font-weight: 900;
+    font-style: normal;
+    line-height: 130%;
+    max-width: 833px;
+    margin: 0 auto 92px;
+}
+.sub {
+    color: #1e212c;
+    font-family: "Lato";
+    font-size: 20px;
+    font-weight: bold;
+    font-style: normal;
+    line-height: 150%;
+    max-width: 810px;
+    margin: 0 auto 24px;
+}
+.text {
+    color: #424551;
+    font-family: "Lato";
+    font-size: 16px;
+    font-style: normal;
+    font-weight: normal;
+    line-height: 160%;
+    max-width: 810px;
+    margin: 0 auto ;
+
+}
+.list {
+    color: #424551;
+    font-family: "Lato";
+    font-size: 16px;
+    font-style: normal;
+    font-weight: normal;
+    line-height: 160%;
+    max-width: 810px;
+    margin: 0 auto 24px;
+}
+img {
+    display: block;
+    margin: 0 auto 60px;
+}
+.text-2 {
+    color: #424551;
+    font-family: "Lato";
+    font-size: 16px;
+    font-style: normal;
+    font-weight: normal;
+    line-height: 160%;
+    max-width: 810px;
+    margin: 0 auto 48px;
+}
+.sub-2 {
+    max-width: 752px;
+    margin: 0 0 48px 270px;
+    color: #1e212c;
+    font-family: "Lato";
+    font-size: 20px;
+    font-weight: bold;
+    font-style: normal;
+    line-height: 150%;
+    background-image: url("../img/braces.jpg");
+    background-repeat: no-repeat;
+    padding:0 0 0 80px ;
+    background-position: 0 5px;
+}
+.list-2 {
+    color: #424551;
+    font-family: "Lato";
+    font-size: 16px;
+    font-style: normal;
+    font-weight: normal;
+    line-height: 160%;
+    max-width: 600px;
+    margin: 0 0  24px 270px;
+}
+.list-3 {
+    color: #424551;
+    font-family: "Lato";
+    font-size: 16px;
+    font-style: normal;
+    font-weight: normal;
+    line-height: 160%;
+    max-width: 810px;
+    margin: 0 auto 75px ;
+} 
+.check {
+    background-image: url("../img/check.png");
+    background-repeat: no-repeat;
+    padding: 0 0 0 30px;
+    background-position: 0 5px;
+}
+h2 {
+    font-family: "Lato";
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 150%;
+    max-width: 300px;
+    font-style: normal;
+    color: #1e212c;
+    margin-left: 270px;
+    letter-spacing: 1px;
+    text-transform: uppercase;
+    margin-bottom: 9px;
+}
+h3 {
+    font-family: "Lato";
+    font-weight: 900;
+    font-size: 46px;
+    margin-left:  270px; 
+    line-height: 60px;
+    color: #1e212c;
+    margin-bottom: 40px;
+}
+.list-two {
+    margin-left: 270px;
+    margin-bottom: 36px;
+}
+.list-item {
+    margin-bottom: 12px;
+    font-family: "Lato";
+    line-height: 26px;
+    color: #424551;
+    font-size: 16px;
+    max-width: 358px;
+    background-image: url("../img/check.png");
+    background-repeat: no-repeat;
+    padding: 0 0 0 30px;
+    background-position: 0 5px;
+}
+.button {
+    margin-left: 270px;
+    font-family: "Lato";
+    font-weight: bold;
+    font-size: 14px;
+    line-height: 44px;
+    background-image: linear-gradient(55.95deg, rgb(255, 63, 58) 0%, rgb(247, 94, 5) 100%);
+    display: inline-block;
+    min-height: 32px;
+    max-width: 161px;
+    margin-bottom: 40px;
+    color: white;
+    padding: 0 32px;
+    border-radius: 4px;
+}
